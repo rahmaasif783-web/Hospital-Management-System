@@ -19,7 +19,8 @@ ________________________________________
 •	Doctor Assignment
 •	Appointment Scheduling
 •	View Patient Details
-•	View Appointment Details________________________________________
+•	View Appointment Details
+
 5. Classes Used
 Patient
 Stores patient information such as ID, name, age, medical history, and assigned doctor.
