@@ -2,11 +2,11 @@
 
 1. Introduction
 The Hospital Management System is a Java-based application developed using Object-Oriented Programming concepts. It helps manage basic hospital activities such as patient registration, doctor assignment, and appointment scheduling through a simple menu-driven interface.
-________________________________________
+
 2. Abstract
 The Hospital Management System is a console-based Java application designed to simplify basic hospital operations. It provides facilities for patient registration, doctor assignment, appointment scheduling, and record management.
 The project demonstrates the practical implementation of Object-Oriented Programming concepts such as Encapsulation, Inheritance, Abstraction, Polymorphism, Association, and Aggregation.
-________________________________________
+
 3. Objectives
 •	Register patients
 •	Assign doctors
@@ -20,7 +20,8 @@ ________________________________________
 •	Doctor Assignment
 •	Appointment Scheduling
 •	View Patient Details
-•	View Appointment Details________________________________________
+•	View Appointment Details
+
 5. Classes Used
 Patient
 Stores patient information such as ID, name, age, medical history, and assigned doctor.
@@ -37,7 +38,7 @@ Manages all patients, doctors, and appointments using ArrayList.
 Main
 Runs the program and displays the menu.
 uns the program and displays the menu.
-________________________________________
+
 6. OOP Concepts Used
 Class
 A class is a blueprint used to create objects.
@@ -100,7 +101,6 @@ ArrayList<Patient> patients;
 ArrayList<Doctor> doctors;
 ArrayList<Appointment> appointments;
 The Hospital class has collections of patients, doctors, and appointments.
-________________________________________
 
 7.Data Structures Used
 The project uses Java ArrayList.
